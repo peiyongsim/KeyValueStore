@@ -57,7 +57,7 @@ requests and responses are unmarshalled into the C struct types kvrequest_t and 
 ### Web Interface <a name="webinterface"></a>
 This is how the interface for TPCLeader Server looks like:
 
-![alt text](tpcserver.png)
+![alt text](tpcleader.png)
 
 
 This is how the interface for TPCFollower Server looks like:
