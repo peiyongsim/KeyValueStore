@@ -62,7 +62,7 @@ This is how the interface for TPCLeader Server looks like:
 
 This is how the interface for TPCFollower Server looks like:
 
-![alt text](tpcfollower.png)
+![alt text](tpcfollowers.png)
 
 ## Running <a name="running"></a>
 To run this project, you need to install both Vagrant and VirtualBox. Once that's done, `ssh` into your Vagrant VM and run:
