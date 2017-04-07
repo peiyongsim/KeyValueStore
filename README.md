@@ -55,6 +55,14 @@ requests and responses are unmarshalled into the C struct types kvrequest_t and 
 | Register Follower  | POST /register?key=`<addr>&val=<port>`| type: REGISTER|
 
 ### Web Interface <a name="webinterface"></a>
+This is how the interface for TPCLeader Server looks like:
+
+![alt text](tpcserver.png)
+
+
+This is how the interface for TPCFollower Server looks like:
+
+![alt text](tpcfollower.png)
 
 ## Running <a name="running"></a>
 To run this project, you need to install both Vagrant and VirtualBox. Once that's done, `ssh` into your Vagrant VM and run:
